@@ -1,7 +1,7 @@
 {
 	"name": "vicky-project/financial",
 	"type": "laravel-module",
-	"description": "",
+	"description": "Financial cashflow management to allocate monthly and yearly budget management. Build on top nwidart/laravel-modules",
 	"authors": [
 		{
 			"name": "Vicky Rahman",
