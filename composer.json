@@ -2,6 +2,7 @@
 	"name": "vicky-project/financial",
 	"type": "laravel-module",
 	"description": "Financial cashflow management to allocate monthly and yearly budget management. Build on top nwidart/laravel-modules",
+	"license": "MIT",
 	"authors": [
 		{
 			"name": "Vicky Rahman",
@@ -11,13 +12,13 @@
 	"require": {
 		"php": "^8.2",
 		"laravel/framework": "^12.0",
-		"nwidart/laravel-modules": "*",
+		"nwidart/laravel-modules": "^5.0",
 		"icehouse-ventures/laravel-chartjs": "^4.2",
 		"smalot/pdfparser": "^2.12",
 		"maatwebsite/excel": "^3.1",
 		"joshbrw/laravel-module-installer": "^1.0",
-		"vicky-project/viewmanager-module": "dev-main",
-		"vicky-project/menumanagement-module": "dev-main"
+		"vicky-project/viewmanager-module": "^1.0",
+		"vicky-project/menumanagement-module": "^1.0"
 	},
 	"extra": {
 		"laravel": {
