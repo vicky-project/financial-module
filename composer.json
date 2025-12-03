@@ -1,5 +1,5 @@
 {
-	"name": "vicky-project/financial",
+	"name": "vicky-project/financial-module",
 	"type": "laravel-module",
 	"description": "Financial cashflow management to allocate monthly and yearly budget management. Build on top nwidart/laravel-modules",
 	"license": "MIT",
