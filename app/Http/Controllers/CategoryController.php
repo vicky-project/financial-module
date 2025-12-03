@@ -2,7 +2,7 @@
 
 namespace Modules\Financial\Http\Controllers;
 
-use App\Http\Controllers\Controller;
+use Illuminate\Routing\Controller;
 use Illuminate\Http\Request;
 use Modules\Financial\Models\Category;
 use Modules\Financial\Models\Wallet;
